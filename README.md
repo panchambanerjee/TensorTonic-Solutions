@@ -72,6 +72,7 @@ Verified machine learning implementations completed on [TensorTonic](https://www
 | Setting Index | Set a named pandas DataFrame column as the index and report the resulting records and index metadata. | https://www.tensortonic.com/study-plans/pandas-basics/pandas-setting-index |
 | Unstack Long to Wide | Implement Unstack Long to Wide, and return a dict of lists representing the wide-format DataFrame. | https://www.tensortonic.com/study-plans/pandas-basics/pandas-unstack-long-to-wide |
 | Basic SELECT | Write a SQL SELECT query that aliases product names and calculates inventory value from unit price and stock quantity. | https://www.tensortonic.com/study-plans/sql-basics/sql/sql-basic-select |
+| WHERE Clauses | Filter employees by department and salary with SQL WHERE conditions, returning only qualifying names and salaries. | https://www.tensortonic.com/study-plans/sql-basics/sql/sql-where-clauses |
 
 View my verified ML profile: [TensorTonic profile](https://www.tensortonic.com/profile/panchajanya_banerjee)
 <!-- tensortonic:end -->
