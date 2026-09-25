@@ -93,6 +93,7 @@ Verified machine learning implementations completed on [TensorTonic](https://www
 | ROW_NUMBER | Assign deterministic per-segment activity ranks with SQL ROW_NUMBER ordered by engagement score and username. | https://www.tensortonic.com/study-plans/sql-basics/sql/sql-row-number |
 | Running Totals | Compute per-account running transaction totals with a partitioned SQL window ordered by date and transaction ID. | https://www.tensortonic.com/study-plans/sql-basics/sql/sql-running-totals |
 | Self Join | Use a SQL self join to pair users with their referrers while labeling organic signups without a referral. | https://www.tensortonic.com/study-plans/sql-basics/sql/sql-self-join |
+| String Functions | Clean survey data with SQL string functions for trimmed lowercase names, answer lengths, and parsed source URLs. | https://www.tensortonic.com/study-plans/sql-basics/sql/sql-string-functions |
 | Subqueries | Use SQL subqueries to compare product prices with the overall average and include only products with recorded sales. | https://www.tensortonic.com/study-plans/sql-basics/sql/sql-subqueries |
 | WHERE Clauses | Filter employees by department and salary with SQL WHERE conditions, returning only qualifying names and salaries. | https://www.tensortonic.com/study-plans/sql-basics/sql/sql-where-clauses |
 
