@@ -79,6 +79,7 @@ Verified machine learning implementations completed on [TensorTonic](https://www
 | GROUP BY | Group orders by customer in SQL to calculate total order count and spending, ordered by highest spend. | https://www.tensortonic.com/study-plans/sql-basics/sql/sql-group-by |
 | HAVING Clause | Use SQL GROUP BY and HAVING to find customers with at least two orders and summarize their total spending. | https://www.tensortonic.com/study-plans/sql-basics/sql/sql-having-clause |
 | INNER JOIN | Join employees to matching departments with SQL INNER JOIN and return employee name, salary, and department. | https://www.tensortonic.com/study-plans/sql-basics/sql/sql-inner-join |
+| LAG and LEAD | Use SQL LAG to compare monthly revenue with the previous month and calculate month-over-month change. | https://www.tensortonic.com/study-plans/sql-basics/sql/sql-lag-lead |
 | LEFT JOIN | Use SQL LEFT JOIN to include every customer and calculate total spending, returning zero for customers without orders. | https://www.tensortonic.com/study-plans/sql-basics/sql/sql-left-join |
 | LIMIT and OFFSET | Use SQL ORDER BY, LIMIT, and OFFSET to return the second through fourth highest-revenue sales with tie-breaking. | https://www.tensortonic.com/study-plans/sql-basics/sql/sql-limit-offset |
 | Multiple Joins | Join users, experiment assignments, and conversion events in SQL to report converted users, variants, and revenue. | https://www.tensortonic.com/study-plans/sql-basics/sql/sql-multiple-joins |
