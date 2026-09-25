@@ -72,6 +72,7 @@ Verified machine learning implementations completed on [TensorTonic](https://www
 | Setting Index | Set a named pandas DataFrame column as the index and report the resulting records and index metadata. | https://www.tensortonic.com/study-plans/pandas-basics/pandas-setting-index |
 | Unstack Long to Wide | Implement Unstack Long to Wide, and return a dict of lists representing the wide-format DataFrame. | https://www.tensortonic.com/study-plans/pandas-basics/pandas-unstack-long-to-wide |
 | Basic SELECT | Write a SQL SELECT query that aliases product names and calculates inventory value from unit price and stock quantity. | https://www.tensortonic.com/study-plans/sql-basics/sql/sql-basic-select |
+| COUNT, SUM, AVG | Aggregate sales by category with SQL COUNT, SUM, and AVG while handling NULL discounts and deterministic ordering. | https://www.tensortonic.com/study-plans/sql-basics/sql/sql-count-sum-avg |
 | Cross Join | Generate every segment and metric combination with a SQL CROSS JOIN for a complete reporting grid. | https://www.tensortonic.com/study-plans/sql-basics/sql/sql-cross-join |
 | DISTINCT Values | Return each customer and their distinct product count with SQL aggregation and deterministic sorting. | https://www.tensortonic.com/study-plans/sql-basics/sql/sql-distinct-values |
 | GROUP BY | Group orders by customer in SQL to calculate total order count and spending, ordered by highest spend. | https://www.tensortonic.com/study-plans/sql-basics/sql/sql-group-by |
